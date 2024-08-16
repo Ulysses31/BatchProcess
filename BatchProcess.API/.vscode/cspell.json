@@ -1,0 +1,21 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "Ahlq",
+        "ASPNETCORE",
+        "Bapn",
+        "datetime",
+        "Dtos",
+        "Iordanidis",
+        "Newtonsoft",
+        "openapi",
+        "Serilog",
+        "UKTV",
+        "weatherforecast"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
